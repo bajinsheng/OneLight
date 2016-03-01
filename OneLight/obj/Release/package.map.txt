@@ -1,0 +1,13 @@
+[Files]
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\OneLight.exe" "OneLight.exe"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\Logo.scale-240.png" "Assets\Logo.scale-240.png"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\SmallLogo.scale-240.png" "Assets\SmallLogo.scale-240.png"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\SplashScreen.scale-240.png" "Assets\SplashScreen.scale-240.png"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\Square71x71Logo.scale-240.png" "Assets\Square71x71Logo.scale-240.png"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\StoreLogo.scale-240.png" "Assets\StoreLogo.scale-240.png"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\WideLogo.scale-240.png" "Assets\WideLogo.scale-240.png"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\App.xbf" "App.xbf"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\MainPage.xbf" "MainPage.xbf"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\OneLight.xr.xml" "OneLight.xr.xml"
+"F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\resources.pri" "resources.pri"

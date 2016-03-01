@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BAJINSHENG-PC</Machine>
+    <WindowsUser>bajinsheng</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e4ee16e4-1463-42ba-8290-6967d9b6d3ff</PackageIdentityName>
+    <IntermediateOutputPath>F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\OneLight.exe">
+      <PackagePath>OneLight.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\OneLight.xr.xml">
+      <PackagePath>OneLight.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\bajinsheng\Documents\Visual Studio 2013\Projects\OneLight\OneLight\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
